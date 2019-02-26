@@ -1,183 +1,248 @@
-"activity.ETA.estimatedrefund.text" = "Предполагаемый срок поступления: %1$@";
-"activity.activityItem.unknownContactContact" = "Неизвестно";
-"activity.details.ETA.header.text" = "ВОЗМЕЩЕНИЕ ОТПРАВЛЕНО";
-"activity.details.ETACompleted.header.text" = "ВОЗМЕЩЕНО";
-"activity.details.amount.header.text" = "Детали";
-"activity.details.cashWithdrawal.anonymous.text" = "Вы вывели %1$@";
-"activity.details.cashWithdrawal.text" = "Вы вывели %1$@ на %2$@";
-"activity.details.checkCapture.completed.text" = "Вы обналичили чек для %1$@";
-"activity.details.checkCapture.denied.text" = "Отклонена выплата по чеку для %1$@";
-"activity.details.checkCapture.failed.text" = "Не удалось осуществить выплату по чеку для %1$@";
-"activity.details.contactSeller.noEmail.errorMessage" = "Сначала настройте ее на вашем мобильном. Или свяжитесь с продавцом через сайт PayPal.";
-"activity.details.contactSeller.noEmail.errorOk" = "Закрыть";
-"activity.details.contactSeller.noEmail.errorTitle" = "В вашем телефоне еще не настроена электронная почта";
-"activity.details.counterPartyCall.text" = "Позвоните по телефону %@";
-"activity.details.counterPartyContact.Cancel" = "Отмена";
-"activity.details.counterPartyContact.EmailAddressText" = "Эл. адрес %@";
-"activity.details.counterPartyContact.text" = "Связаться с пользователем %@";
-"activity.details.counterPartyHistory.text" = "См. историю операций";
-"activity.details.counterPartyInfo.text" = "%@ и вы";
-"activity.details.counterPartySendMoney.text" = "Отправить средства";
-"activity.details.credit.fee.text" = "Вы оплатили комиссию в размере %1$@.";
-"activity.details.crosscurrency.declineAlertMessage" = "Вы действительно хотите отклонить этот платеж?";
-"activity.details.crosscurrency.optionsCancel" = "Отменить";
-"activity.details.crosscurrency.optionsTitle" = "Принять платеж в:";
-"activity.details.crosscurrency.paymentAcceptedAlertMessage" = "Он будет отображаться в остатке на вашем счете через несколько минут.";
-"activity.details.crosscurrency.paymentAcceptedAlertTitle" = "Платеж принят";
-"activity.details.crosscurrency.paymentDeclinedAlertMessage" = "Платеж отклонен";
-"activity.details.currencyTransfer.text" = "Конвертация валюты в %1$@";
-"activity.details.debit.fee.text" = "Вам была начислена сумма к оплате %1$@ с комиссией в размере %2$@.";
-"activity.details.discount.title" = "Скидка";
-"activity.details.earlyRefund.bank" = "Вы запросили возврат средств до того, как сумма %@ была списана с вашего счета.";
-"activity.details.earlyRefund.full" = "Средства были возвращены до того, как были списаны с вашего счета.";
-"activity.details.feeAmount.title" = "Комиссия ";
-"activity.details.feeDescriptor.domesticATMWithdrawal.title" = "Комиссия за вывод средств через банкомат (внутренняя операция)";
-"activity.details.feeDescriptor.domesticOverTheCounterWithdrawal.title" = "Комиссия за вывод средств через оператора-кассира";
-"activity.details.feeDescriptor.header" = "Комиссия";
-"activity.details.feeDescriptor.internationalATMWithdrawal.title" = "Комиссия за вывод средств через банкомат (международная операция)";
-"activity.details.feeDescriptor.internationalOverTtheCounterWithdrawal.title" = "Комиссия за вывод средств через оператора-кассира";
-"activity.details.feeDescriptor.internationalPurchase.title" = "Комиссия за международную операцию";
-"activity.details.funding.from.text" = "C";
-"activity.details.funding.source.type.balance" = "Остаток на счете PayPal";
-"activity.details.funding.source.type.card" = "%1$@ (%2$@)";
-"activity.details.funding.to.text" = "На";
-"activity.details.gifting.gift.label" = "Подарок";
-"activity.details.gifting.gifting.description.label" = "%@ отправил(а) вам подарок";
-"activity.details.greyMarkets.buyerContactInformation.text" = "Войдите в свою учетную запись eBay и перейдите к истории покупок.";
-"activity.details.greyMarkets.contactBuyer.text" = "Вам нужно связаться с покупателем?";
-"activity.details.greyMarkets.contactSeller.text" = "Вам нужно связаться с продавцом?";
-"activity.details.greyMarkets.sellerContactInformation.text" = "Войдите в свою учетную запись eBay и перейдите к истории продаж.";
-"activity.details.header.issuance.text" = "%1$@ с помощью %2$@";
-"activity.details.holdingBalanceTransfer.credit.text" = "Вы перевели %1$@ с %2$@";
-"activity.details.holdingBalanceTransfer.debit.text" = "Вы перевели %1$@ на %2$@";
-"activity.details.ingoID.text" = "Код операции Ingo %1$@";
-"activity.details.invoice.action.visitwebsite" = "Управление счетами на оплату доступно на нашем <a href='%1$@'>сайте.</a>";
-"activity.details.invoice.credit.text" = "Вы отправили счет на сумму %1$@ пользователю %2$@";
-"activity.details.invoice.debit.text" = "%2$@ отправил(а) счет на сумму %1$@";
-"activity.details.invoiceID.text" = "Код счета на оплату %1$@";
-"activity.details.moneyAdded.credit.text" = "Вы добавили %1$@ через систему PayPal Cash Load";
-"activity.details.moneyPools.moneyReceived.text" = "Вы получили %1$@ от %2$@ для %3$@";
-"activity.details.moneyPools.moneySent.text" = "Вы отправили %1$@ пользователю %2$@ для %3$@";
-"activity.details.moneyReceived.credit.text" = " Вы получили %1$@ от пользователя %2$@";
-"activity.details.moneyRefunded.credit.text" = "Вы получили возмещение на сумму %1$@ от пользователя %2$@";
-"activity.details.moneyRefunded.debit.text" = "Вы возместили %1$@ пользователю %2$@";
-"activity.details.moneyRequestCancel.text" = "Запрос на оплату в размере %1$@ отменен";
-"activity.details.moneyRequestRequestee.requestDeclined.text" = "Вы отклонили запрос %1$@ на сумму %2$@.";
-"activity.details.moneyRequestRequestee.requestReceived.text" = "%2$@ запрашивает %1$@";
-"activity.details.moneyRequestRequester.requestCancelled.text" = "Вы отменили свой запрос на сумму %1$@ для пользователя %2$@";
-"activity.details.moneyRequestRequester.requestSent.text" = "Вы запросили %1$@ у пользователя %2$@";
-"activity.details.moneySent.debit.text" = "Вы отправили %1$@ пользователю %2$@";
-"activity.details.moneyTransfered.credit.autoTopUp.text" = "%1$@ автоматическое пополнение счета c %2$@";
-"activity.details.moneyTransfered.credit.text" = "Вы вывели %1$@ с остатка на своем счете %2$@";
-"activity.details.moneyTransfered.debit.text" = "Вы вывели %1$@ на %2$@";
-"activity.details.ofac.availableDate" = "Дата доступности средств: %@";
-"activity.details.order.credit.text" = "Пользователь %2$@ получил заказ на сумму %1$@";
-"activity.details.order.debit.text" = "Пользователь %1$@ отправил заказ на сумму %2$@";
-"activity.details.order.echeck.goodsAndServices.credit.text" = "Расчетное время обработки электронного чека: %1$@. Не отправляйте товары, пока не получите оплату.";
-"activity.details.order.echeck.goodsAndServices.debit.text" = "Предположительная дата завершения платежа электронным чеком - %1$@. Мы рекомендуем продавцам не отгружать товар до получения платежа.";
-"activity.details.order.echeck.personal.text" = "Расчетное время обработки электронного чека: %1$@";
-"activity.details.order.payAfterDelivery.details.text" = "С вашего банковского счета будут сняты средства %@. Если вы готовы оплатить, вы можете сделать это сейчас.";
-"activity.details.order.payAfterDelivery.text" = "Вы разместили заказ у продавца %2$@ на сумму %1$@";
-"activity.details.payafterdelivery.alert.cancel" = "Отмена";
-"activity.details.payafterdelivery.alert.pay" = "Оплатить";
-"activity.details.payafterdelivery.alert.text" = "Вы готовы рассчитаться? Коснитесь кнопки «Оплатить», и мы спишем средства с вашего банковского счета.";
-"activity.details.payafterdelivery.alert.title" = "Оплатить сейчас";
-"activity.details.payafterdelivery.failure-alert.button.cancel" = "Отмена";
-"activity.details.payafterdelivery.failure-alert.button.try-again" = "Повторить попытку";
-"activity.details.payafterdelivery.failure-alert.text" = "Возникла неизвестная ошибка. Подождите немного и попробуйте еще раз.";
-"activity.details.payafterdelivery.failure-alert.title" = "Приносим извинения";
-"activity.details.payafterdelivery.success-alert.button.ok" = "OK";
-"activity.details.payafterdelivery.success-alert.text" = "Вы расплатились. Для завершения платежа вашему банку может потребоваться %1$@–%2$@ дн.";
-"activity.details.payafterdelivery.success-alert.title" = "Спасибо! ";
-"activity.details.payment.debit.cashback.text" = "Вы произвели оплату %1$@ в пользу %2$@ и получили %3$@ наличными";
-"activity.details.payment.debit.text" = "Вы перечислили %1$@ пользователю %2$@";
-"activity.details.payment.withdrawal.text" = "Вывод наличных %1$@ в %2$@";
-"activity.details.purchaseDetails.title" = "Сведения о покупке";
-"activity.details.purchaseItemName.text" = "%1$@ (Количество: %2$@)";
-"activity.details.purchaseProtectionDateBefore.text" = "В случае возникновения проблем свяжитесь с продавцом через PayPal до %@ Возможно, вы имеете право на участие в Программе защиты покупателей.";
-"activity.details.purchaseTotal.title" = "Общая сумма покупки";
-"activity.details.refundETA.credit.text" = "Вы получили возмещение в размере %1$@ от пользователя %2$@";
-"activity.details.requestMoney.cancelRequest.alertMessageRequestee" = "Мы отправим письмо пользователю %1$@ с уведомлением об отмене запроса.";
-"activity.details.requestMoney.cancelRequest.alertMessageRequester" = "Мы отправим электронное письмо пользователю %1$@ с уведомлением об отклоненном запросе.";
-"activity.details.requestMoney.cancelRequest.alertTitleREquestee" = "Вы хотите отменить свой запрос?";
-"activity.details.requestMoney.cancelRequest.alertTitleRequester" = "Вы хотите отклонить данный запрос?";
-"activity.details.requestMoney.declineRequest.no" = "Не отклонять";
-"activity.details.requestMoney.declineRequest.yes" = "Отклонить";
-"activity.details.saythanks.firstTimeSayThanks" = "Отлично! PayPal сообщит о вашей благодарности.";
-"activity.details.saythanks.receivedThanks" = "%@ благодарит Вас!";
-"activity.details.saythanks.saidThanksForYou" = "Мы отправили ваше сообщение с благодарностью.";
-"activity.details.saythanks.saythanks.button.title" = "Поблагодарить";
-"activity.details.saythanks.youSaidThanks" = "Вы сказали «Спасибо!» ";
-"activity.details.section.contact.header" = "Контакт";
-"activity.details.section.history.action" = "См. историю операций с ";
-"activity.details.section.history.empty.message" = "Недавние операции не найдены.";
-"activity.details.section.history.header" = "История";
-"activity.details.section.purchaseDetails.discount.title" = "Скидка";
-"activity.details.section.purchaseDetails.fee.title" = "Комиссия";
-"activity.details.section.purchaseDetails.header" = "СВЕДЕНИЯ О ПОКУПКЕ";
-"activity.details.section.purchaseDetails.multipleItems.title" = "%1$@ (Кол-во %2$@)";
-"activity.details.section.purchaseDetails.shipping.title" = "Доставка";
-"activity.details.section.purchaseDetails.subTotal.title" = "Сумма";
-"activity.details.section.purchaseDetails.tax.title" = "Налог";
-"activity.details.section.purchaseDetails.total.title" = "Всего";
-"activity.details.section.purchaseProtection.header" = "Защита покупок";
-"activity.details.section.purchaseProtection.message" = "В случае возникновения проблем свяжитесь с продавцом через PayPal до %@ Возможно, вы имеете право на участие в Программе защиты покупателей.";
-"activity.details.section.shipping.recipient.header" = "Детали доставки";
-"activity.details.section.shipping.sender.header" = "Можно отправлять";
-"activity.details.section.status.counterParty.recipient.header" = "Адрес";
-"activity.details.section.status.counterParty.sender.header" = "С";
-"activity.details.section.status.feeAmount.title" = "Комиссия";
-"activity.details.section.status.fundingSources.credit.header" = "Адрес";
-"activity.details.section.status.fundingSources.debit.header" = "С";
-"activity.details.section.status.fundingSources.generic.header" = "С помощью";
-"activity.details.section.status.fundingSources.issuance.details" = "Через %@";
-"activity.details.section.status.grossAmount.title" = "Сумма";
+/* 
+  activity.strings
+  consumervenice
+
+  Created by Miluski, Dane on 4/15/15.
+  Copyright (c) 2015 PayPal. All rights reserved.
+*/
+
+// Activity redesign
+"activity.details.section.status.counterParty.sender.header" = "От";
+"activity.details.section.status.counterParty.recipient.header" = "Кому";
 "activity.details.section.status.purpose.header" = "Для";
-"activity.details.section.status.purpose.personal" = "Друзья и cемья";
+"activity.details.section.status.purpose.personal" = "Друзья и семья";
 "activity.details.section.status.purpose.service" = "Товары и услуги";
-"activity.details.section.status.totalAmount.title" = "Итого";
-"activity.details.section.transactionID.header" = "Код операции";
-"activity.details.shipping.carrier.text" = "Отправитель: %@";
-"activity.details.shipping.header.title" = "Отслеживайте свою посылку";
-"activity.details.shipping.status.text" = "Статус: %@";
-"activity.details.shipping.title" = "Доставка";
-"activity.details.shippingAddress.title" = "Доставка по адресу";
-"activity.details.subTotal.title" = "Сумма";
-"activity.details.tax.title" = "Налог";
-"activity.details.totalAmount.title" = "Итого";
+"activity.details.section.status.fundingSources.issuance.details" = "Through %1$@";
+"activity.details.section.status.fundingSources.generic.header" = "Используя";
+"activity.details.section.status.fundingSources.debit.header" = "От";
+"activity.details.section.status.fundingSources.credit.header" = "Кому";
+"activity.details.section.status.grossAmount.title" = "Сумма";
+"activity.details.section.status.feeAmount.title" = "Плату";
+"activity.details.section.status.totalAmount.title" = "Общая";
+
+"activity.details.section.contact.header" = "Контакт";
+"activity.details.section.transactionID.header" = "КОД ТРАНЗАКЦИИ";
+
+"activity.details.section.history.header" = "Истории";
+"activity.details.section.history.action" = "Посмотреть историю";
+"activity.details.section.history.empty.message" = "Нет последних транзакций";
+
+"activity.details.section.shipping.sender.header" = "ОК, ЧТОБЫ КОРАБЛЬ";
+"activity.details.section.shipping.recipient.header" = "ИНФОРМАЦИЯ О ДОСТАВКЕ";
+
+"activity.details.section.purchaseProtection.header" = "ЗАЩИТА ПОКУПОК";
+"activity.details.section.purchaseProtection.message" = "Если есть проблемы, не забудьте связаться с продавцом через PayPal, %1$@. Вы можете иметь право на покупку защиты.";
+
+"activity.details.ETA.header.text" = "ВАШ ВОЗВРАТ НА СВОЕМ ПУТИ";
+"activity.details.ETACompleted.header.text" = "Возвращен";
+"activity.ETA.estimatedrefund.text" = "Estimated arrival: %1$@";
+
+"activity.details.section.purchaseDetails.header" = "ПОДРОБНОСТИ ПОКУПКИ";
+"activity.details.section.purchaseDetails.subTotal.title" = "Сумма";
+"activity.details.section.purchaseDetails.discount.title" = "Скидка";
+"activity.details.section.purchaseDetails.shipping.title" = "Доставка";
+"activity.details.section.purchaseDetails.tax.title" = "Налог";
+"activity.details.section.purchaseDetails.fee.title" = "Плату";
+"activity.details.section.purchaseDetails.total.title" = "Общая";
+
+"activity.details.section.purchaseDetails.multipleItems.title" = "%1$@ (Qty %2$@)";
+
+"activity.details.invoiceID.text" = "Invoice ID %1$@";
+"activity.details.transactionID.text" = "Transaction ID %1$@";
+"activity.details.transactionMadeAt.text" = "Transaction made at %1$@ ";
+
+"activity.details.debit.fee.text" = "You were charged %1$@ after a %2$@ fee.";
+"activity.details.credit.fee.text" = "You paid a %1$@ fee.";
+
+"activity.details.moneySent.debit.text" = "You sent %1$@ to %2$@";
+"activity.details.moneyReceived.credit.text" = "You received %1$@ from %2$@";
+"activity.details.moneyRefunded.credit.text" = "You were refunded %1$@ from %2$@";
+"activity.details.refundETA.credit.text" = "You are receiving a refund of %1$@ from %2$@";
+"activity.details.moneyRefunded.debit.text" = "You refunded %1$@ to %2$@";
+"activity.details.moneyTransfered.debit.text" = "You transferred %1$@ to %2$@";
+"activity.details.moneyTransfered.credit.text" = "You transferred %1$@ from your %2$@ balance";
+"activity.details.moneyTransfered.credit.autoTopUp.text" = "%1$@ automatic top up from %2$@";
+"activity.details.moneyAdded.credit.text" = "You added %1$@ through PayPal Cash Load";
+
+"activity.details.cashWithdrawal.text" = "You withdrew %1$@ at %2$@";
+"activity.details.cashWithdrawal.anonymous.text" = "You withdrew %1$@";
+"activity.details.header.issuance.text" = "%1$@ using %2$@";
+
+"activity.details.holdingBalanceTransfer.debit.text" = "You transferred %1$@ to %2$@";
+"activity.details.holdingBalanceTransfer.credit.text" = "You transferred %1$@ from %2$@";
+
+"activity.details.invoice.credit.text" = "You sent an invoice for %1$@ to %2$@";
+"activity.details.invoice.debit.text" = "%2$@ sent an invoice for %1$@";
+"activity.details.payment.debit.text" = "You paid %1$@ to %2$@";
+"activity.details.payment.debit.cashback.text" = "You paid %1$@ to %2$@ and got %3$@ in cash";
+"activity.details.order.debit.text" = "%1$@ sent %2$@";
+"activity.details.order.credit.text" = "%2$@ received order for %1$@";
+"activity.details.payment.withdrawal.text" = "Cash Withdrawal of %1$@ at %2$@";
+// Delayed Payment
+"activity.details.order.payAfterDelivery.text" = "You placed an order with %2$@ for %1$@";
+"activity.details.order.payAfterDelivery.details.text" = "Ваш банк будет списана на %1$@. Если вы готовы платить, вы можете оплатить сейчас.";
+"activity.details.order.echeck.personal.text" = "eCheck estimated completion date is %1$@";
+"activity.details.order.echeck.goodsAndServices.debit.text" = "eCheck оценкам Дата завершения %1$@. Мы советуем купцы не поставлять до тех пор, пока они получают оплату.";
+"activity.details.order.echeck.goodsAndServices.credit.text" = "eCheck оценкам Дата завершения %1$@. Не помещайте элементы до тех пор, пока вы получаете оплату.";
+
+"activity.details.moneyRequestRequestee.requestReceived.text" = "%2$@ is requesting %1$@";
+"activity.details.moneyRequestRequester.requestSent.text" = "You requested %1$@ from %2$@";
+
+"activity.details.moneyRequestRequester.requestCancelled.text" = "You canceled your request for %1$@ from %2$@";
+"activity.details.moneyRequestRequestee.requestDeclined.text" = "You declined %1$@ request for %2$@";
+"activity.details.moneyRequestCancel.text" = "The request for %1$@ is canceled";
+"activity.details.currencyTransfer.text" = "Currency conversion to %1$@";
+
 "activity.details.transactionDateTitle.text" = "Дата";
-"activity.details.transactionID.text" = "Код операции: %1$@";
-"activity.details.transactionMadeAt.text" = "Время операции: %1$@ ";
+"activity.details.transactionStatusTitle.text" = "Тип транзакции";
 "activity.details.transactionNotesTitle.text" = "Примечание";
-"activity.details.transactionStatusTitle.text" = "Тип операции";
-"activity.details.tryAgain.button" = "Повторите попытку";
-"activity.details.withdrawalSubTotal.title" = "СУММА ДЛЯ ВЫВОДА СРЕДСТВ";
-"activity.filter.segmentedControl.all" = "Все";
-"activity.filter.segmentedControl.in" = "Получено";
-"activity.filter.segmentedControl.out" = "Отправлено";
-"activity.filters.customFilter.fromDatetitle" = "С";
-"activity.filters.customFilter.title" = "Выберите диапазон дат";
-"activity.filters.customFilter.toDatetitle" = "по";
-"activity.filters.customFromDate.futureDateError.Ok" = "OK";
-"activity.filters.customFromDate.futureDateError.text" = "Проверьте выбранные даты.";
-"activity.filters.didTapCancel.cancelButton" = "Отменить";
-"activity.filters.didTapDone.doneButton" = "Показать";
-"activity.filters.presetFilters.name" = "За пред. %1$@ дней";
-"activity.filters.titleBar.title" = "Фильтровать по дате";
-"activity.list.noTransactions.details.label.text" = "Быстро находите всю информацию о платежах, отвечайте на запросы на оплату от друзей, отправляйте деньги и т. д.";
-"activity.list.noTransactions.systemErrorDetails.label.text" = "Возникла проблема с нашей стороны. Повторите попытку через минуту.";
-"activity.list.noTransactions.systemErrorTitle.label.text" = "Повторите попытку";
-"activity.list.noTransactions.title.label.text" = "Вся история операций в одном месте";
-"activity.list.noTransactionsInDateRange.detail.label.text" = "Вы хотите выполнить поиск операции с другим диапазоном дат?";
-"activity.list.noTransactionsInDateRange.title.label.text" = "Операции не найдены";
-"activity.list.xoomPopup.cancel.title" = "Отмена";
-"activity.list.xoomPopup.gotoxoom.title" = "Перейти на Xoom";
-"activity.list.xoomPopup.message.label.text" = "Войдите в свой счет Xoom, чтобы увидеть все ваши операции.";
-"activity.list.xoomPopup.title.label.text" = "Перейти на Xoom";
-"activity.list.xoomTransactions.title.label.text" = "Просматривайте свои операции через Xoom";
-"activity.navigationBar.title.availableBalance" = "Остаток на счете PayPal: %1$@";
-"activity.section.group.complete" = "Завершено";
-"activity.section.group.pending" = "Не завершено";
-"activity.similarTransactions.header.text" = "Вы и %@";
+
+"activity.details.funding.from.text" = "От";
+"activity.details.funding.to.text" = "Кому";
+"activity.details.shippingAddress.title" = "Корабль к";
+"activity.details.purchaseDetails.title" = "ПОДРОБНОСТИ ПОКУПКИ";
+"activity.details.amount.header.text" = "Детали";
+
+"activity.details.purchaseItemName.text" = "%1$@ (Qty %2$@)";
+"activity.details.feeAmount.title" = "Плату";
+"activity.details.totalAmount.title" = "Общая";
+
+"activity.details.subTotal.title" = "Сумма";
+"activity.details.discount.title" = "Скидка";
+"activity.details.shipping.title" = "Доставка";
+"activity.details.withdrawalSubTotal.title" = "СУММА СНЯТИЯ";
+"activity.details.tax.title" = "Налог";
+"activity.details.purchaseTotal.title" = "ВСЕГО ПОКУПОК";
+"activity.details.counterPartyInfo.text" = "YOU AND %1$@";
+"activity.details.counterPartyContact.text" = "Contact %1$@";
+"activity.details.counterPartySendMoney.text" = "Отправить деньги";
+"activity.details.counterPartyContact.EmailAddressText" = "Email %1$@";
+"activity.details.counterPartyContact.Cancel" = "Отмена";
+"activity.details.counterPartyHistory.text" = "Посмотреть историю";
+"activity.details.funding.source.type.balance" = "Баланс PayPal";
+"activity.details.contactSeller.noEmail.errorTitle" = "Похоже, что электронная почта не настроена на вашем телефоне еще";
+"activity.details.contactSeller.noEmail.errorMessage" = "Установите его в настройках вашего устройства в первую очередь. Или свяжитесь с продавцом через PayPal на нашем сайте.";
+"activity.details.contactSeller.noEmail.errorOk" = "Хорошо";
+"activity.details.requestMoney.cancelRequest.alertTitleRequester" = "ОтКлонить этот запрос?";
+"activity.details.requestMoney.cancelRequest.alertTitleREquestee" = "Отменить запрос?";
+"activity.details.requestMoney.cancelRequest.alertMessageRequestee" = "We’ll email %1$@ letting them know the request was canceled.";
+"activity.details.requestMoney.cancelRequest.alertMessageRequester" = "We’ll email %1$@ letting them know you declined the money request.";
+
+"activity.details.requestMoney.declineRequest.no" = "Нет";
+"activity.details.requestMoney.declineRequest.yes" = "Да";
+
+"activity.details.invoice.action.visitwebsite" = "Вы можете управлять счетами на нашем <a href='%1$@'>сайте.</a>";
+
+// Shipping Info
+"activity.details.shipping.header.title" = "Отслеживание отправления";
+"activity.details.shipping.status.text" = "Status: %1$@";
+"activity.details.shipping.carrier.text" = "Sent by %1$@";
+
+// OFAC
+"activity.details.ofac.availableDate" = "Available Date: %1$@";
+
+//Say Thanks
+"activity.details.saythanks.saythanks.button.title" = "Скажите спасибо";
+"activity.details.saythanks.saidThanksForYou" = "Мы отправили Ваше Благодарственное Примечание.";
+"activity.details.saythanks.firstTimeSayThanks" = "Прекрасно! Мы скажем им, что вы сказали Спасибо.";
+"activity.details.saythanks.youSaidThanks" = "Ты сказала \"Спасибо\"!";
+"activity.details.saythanks.receivedThanks" = "%1$@ says, Thanks!";
+
+// Pay After Delivery
+"activity.details.payafterdelivery.alert.title" = "Оплатить сейчас";
+"activity.details.payafterdelivery.alert.text" = "Готовы к расселению? Нажмите оплатить, и мы пополним ваш банковский счет.";
+"activity.details.payafterdelivery.alert.cancel" = "Отмена";
+"activity.details.payafterdelivery.alert.pay" = "Платить";
+
+"activity.details.payafterdelivery.success-alert.title" = "Спасибо!";
+"activity.details.payafterdelivery.success-alert.text" = "Вы все оплачено. Это может занять ваш банк %1$@-%2$@ дней для завершения платежа.";
+"activity.details.payafterdelivery.success-alert.button.ok" = "Хорошо";
+
+"activity.details.payafterdelivery.failure-alert.title" = "Извините за это";
+"activity.details.payafterdelivery.failure-alert.text" = "Похоже, что-то пошло не так с нашей целью. Подождите секунду и дать ему еще одну попытку.";
+"activity.details.payafterdelivery.failure-alert.button.cancel" = "Отмена";
+"activity.details.payafterdelivery.failure-alert.button.try-again" = "Повторить";
+
+//Purchase Protection Date
+"activity.details.purchaseProtectionDateBefore.text" = "Если есть проблемы, не забудьте связаться с продавцом через PayPal, %1$@. Вы можете иметь право на покупку защиты.";
+
+//Gifting
+"activity.details.gifting.gift.label" = "Подарок";
+"activity.details.gifting.gifting.description.label" = "%1$@ sent you a gift";
+
+// Cross Currency
+"activity.details.crosscurrency.declineAlertMessage" = "Вы действительно хотите отклонить этот платеж?";
+"activity.details.crosscurrency.paymentDeclinedAlertMessage" = "Компенсация отклонена";
+"activity.details.crosscurrency.optionsTitle" = "Примите этот платеж в:";
+"activity.details.crosscurrency.paymentAcceptedAlertTitle" = "Оплата принимается";
+"activity.details.crosscurrency.paymentAcceptedAlertMessage" = "Вы увидите это в вашем балансе в ближайшее время.";
+"activity.details.crosscurrency.optionsCancel" = "Отмена";
+
+// Fee descriptor
+"activity.details.feeDescriptor.header"="Плату";
+"activity.details.feeDescriptor.domesticATMWithdrawal.title"="Плата за снятие внутренних БАНКОМАТов";
+"activity.details.feeDescriptor.internationalATMWithdrawal.title"="Международная комиссия за снятие средств в БАНКОМАТе";
+"activity.details.feeDescriptor.domesticOverTheCounterWithdrawal.title"="За встречный сбор за снятие средств";
+"activity.details.feeDescriptor.internationalOverTtheCounterWithdrawal.title"="За встречный сбор за снятие средств";
+"activity.details.feeDescriptor.internationalPurchase.title"="Сбор за внешнюю сделку";
+
+// eg: Master Card x-5566
+"activity.details.funding.source.type.card" = "%1$@ (%2$@)";
+"activity.details.tryAgain.button" = "Повторить";
+"activity.summaryList.titleBar.title" = "Деятельности";
+"activity.navigationBar.title.availableBalance" = "PayPal Balance: %1$@";
 "activity.summaryList.didTapFilterButton.title" = "Фильтр";
-"activity.summaryList.titleBar.title" = "Операции";
+"activity.filters.titleBar.title" = "Фильтровать по дате";
+"activity.filters.presetFilters.name" = "Past %1$@ days";
+"activity.filters.customFilter.title" = "ВЫБЕРИТЕ ДИАПАЗОН ДАТ";
+"activity.filters.customFilter.fromDatetitle" = "От";
+"activity.filters.customFilter.toDatetitle" = "Кому";
+"activity.filters.didTapCancel.cancelButton" = "Отмена";
+"activity.filters.didTapDone.doneButton" = "Показать";
+"activity.activityItem.unknownContactContact" = "Неизвестный";
+"activity.filters.customFromDate.futureDateError.Ok" = "Хорошо";
+"activity.filters.customFromDate.futureDateError.text" = "Пожалуйста, проверьте выбранные даты.";
+
+"activity.filter.segmentedControl.all" = "Все";
+"activity.filter.segmentedControl.in" = "Деньги в";
+"activity.filter.segmentedControl.out" = "Деньги из";
+
+"activity.section.group.pending" = "Ожидающие";
+"activity.section.group.complete" = "Завершена";
+
+"activity.similarTransactions.header.text" = "You and %1$@";
+
+"activity.list.noTransactions.title.label.text" = "Все ваши действия, все в одном месте";
+"activity.list.noTransactions.details.label.text" = "Быстро найти все Ваши платежные данные, реагировать на денежные запросы от друзей, отправить кому-то деньги снова, и многое другое.";
+"activity.list.noTransactionsInDateRange.title.label.text" = "Мы не нашли никаких сделок";
+"activity.list.noTransactionsInDateRange.detail.label.text" = "Хотите выполнить поиск транзакции с другим диапазоном дат?";
+"activity.list.noTransactions.systemErrorTitle.label.text" = "Давайте попробуем еще раз";
+"activity.list.noTransactions.systemErrorDetails.label.text" = "Похоже, что-то пошло не так с нашей целью. Пожалуйста, попробуйте еще раз в минуту.";
+
+//Xoom
+"activity.list.xoomTransactions.title.label.text" = "Смотрите вашу деятельность Xoom";
+"activity.list.xoomPopup.title.label.text" = "Перейти к Xoom";
+"activity.list.xoomPopup.message.label.text" = "Войдите в свою учетную запись Xoom, чтобы увидеть все ваши транзакции.";
+"activity.list.xoomPopup.gotoxoom.title" = "Перейти к Xoom";
+"activity.list.xoomPopup.cancel.title" = "Отмена";
+
+// eBay Grey Markets
+"activity.details.greyMarkets.contactSeller.text" = "НУЖНО СВЯЗАТЬСЯ С ПРОДАВЦОМ?";
+"activity.details.greyMarkets.contactBuyer.text" = "НУЖНО СВЯЗАТЬСЯ С ПОКУПАТЕЛЕМ?";
+"activity.details.greyMarkets.sellerContactInformation.text" = "Войдите в свой аккаунт eBay и перейдите к истории продаж.";
+"activity.details.greyMarkets.buyerContactInformation.text" = "Войдите в свою учетную запись eBay и перейдите к истории покупок.";
+
+// Money Pools
+"activity.details.moneyPools.moneySent.text" = "You sent %1$@ to %2$@ for %3$@";
+"activity.details.moneyPools.moneyReceived.text" = "You received %1$@ from %2$@ for %3$@";
+
+//Check Capture
+"activity.details.checkCapture.completed.text" = "You cashed a check for %1$@";
+"activity.details.checkCapture.denied.text" = "Denied check cash for %1$@";
+"activity.details.checkCapture.failed.text" = "Failed check cash for %1$@";
+"activity.details.ingoID.text" = "Ingo Transaction ID %1$@";
+"activity.details.counterPartyCall.text" = "Call %1$@";
+
+//Early Refund
+"activity.details.earlyRefund.bank" = "You requested the refund before the %1$@ was debited from your bank account.";
+"activity.details.earlyRefund.full" = "Оплата была возвращена до того, как она была списана с вашего счета.";

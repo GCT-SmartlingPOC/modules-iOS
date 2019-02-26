@@ -1,0 +1,248 @@
+/* 
+  activity.strings
+  consumervenice
+
+  Created by Miluski, Dane on 4/15/15.
+  Copyright (c) 2015 PayPal. All rights reserved.
+*/
+
+// Activity redesign
+"activity.details.section.status.counterParty.sender.header" = "Von";
+"activity.details.section.status.counterParty.recipient.header" = "Auf";
+"activity.details.section.status.purpose.header" = "Für";
+"activity.details.section.status.purpose.personal" = "Freunde und Familie";
+"activity.details.section.status.purpose.service" = "Waren und Dienstleistungen";
+"activity.details.section.status.fundingSources.issuance.details" = "über %1$@ abgehoben";
+"activity.details.section.status.fundingSources.generic.header" = "Mit";
+"activity.details.section.status.fundingSources.debit.header" = "Von";
+"activity.details.section.status.fundingSources.credit.header" = "Auf";
+"activity.details.section.status.grossAmount.title" = "Betrag";
+"activity.details.section.status.feeAmount.title" = "Gebühr";
+"activity.details.section.status.totalAmount.title" = "Summe";
+
+"activity.details.section.contact.header" = "Kontakt";
+"activity.details.section.transactionID.header" = "Transaktionscode";
+
+"activity.details.section.history.header" = "Transaktionen";
+"activity.details.section.history.action" = "Aktivitäten anzeigen";
+"activity.details.section.history.empty.message" = "Sie haben keine aktuellen Transaktionen";
+
+"activity.details.section.shipping.sender.header" = "Ware jetzt versenden";
+"activity.details.section.shipping.recipient.header" = "Versandinformationen";
+
+"activity.details.section.purchaseProtection.header" = "Käuferschutz";
+"activity.details.section.purchaseProtection.message" = "Wenn es ein Problem mit dieser Transaktion gibt, wenden Sie sich über Ihr PayPal-Konto bis zum %1$@ an den Verkäufer. Möglicherweise gilt der Käuferschutz.";
+
+"activity.details.ETA.header.text" = "Ihre Rückzahlung ist unterwegs";
+"activity.details.ETACompleted.header.text" = "Zurückgezahlt";
+"activity.ETA.estimatedrefund.text" = "Voraussichtliche Dauer: %1$@";
+
+"activity.details.section.purchaseDetails.header" = "Kaufdetails";
+"activity.details.section.purchaseDetails.subTotal.title" = "Betrag";
+"activity.details.section.purchaseDetails.discount.title" = "Rabatt";
+"activity.details.section.purchaseDetails.shipping.title" = "Versand";
+"activity.details.section.purchaseDetails.tax.title" = "Steuer";
+"activity.details.section.purchaseDetails.fee.title" = "Gebühr";
+"activity.details.section.purchaseDetails.total.title" = "Summe";
+
+"activity.details.section.purchaseDetails.multipleItems.title" = "%1$@ (Qty %2$@)";
+
+"activity.details.invoiceID.text" = "Rechnungsnummer %1$@";
+"activity.details.transactionID.text" = "Transaktionscode %1$@";
+"activity.details.transactionMadeAt.text" = "Zeitpunkt der Transaktion: %1$@ ";
+
+"activity.details.debit.fee.text" = "You were charged %1$@ after a %2$@ fee.";
+"activity.details.credit.fee.text" = "Sie haben eine Gebühr von %1$@ gezahlt.";
+
+"activity.details.moneySent.debit.text" = "You sent %1$@ to %2$@";
+"activity.details.moneyReceived.credit.text" = "You received %1$@ from %2$@";
+"activity.details.moneyRefunded.credit.text" = "You were refunded %1$@ from %2$@";
+"activity.details.refundETA.credit.text" = "You are receiving a refund of %1$@ from %2$@";
+"activity.details.moneyRefunded.debit.text" = "You refunded %1$@ to %2$@";
+"activity.details.moneyTransfered.debit.text" = "You transferred %1$@ to %2$@";
+"activity.details.moneyTransfered.credit.text" = "You transferred %1$@ from your %2$@ balance";
+"activity.details.moneyTransfered.credit.autoTopUp.text" = "%1$@ automatic top up from %2$@";
+"activity.details.moneyAdded.credit.text" = "Sie haben %1$@ durch Bargeldaufladung bei PayPal hinzugefügt";
+
+"activity.details.cashWithdrawal.text" = "You withdrew %1$@ at %2$@";
+"activity.details.cashWithdrawal.anonymous.text" = "Sie haben %1$@ abgebucht";
+"activity.details.header.issuance.text" = "%1$@ using %2$@";
+
+"activity.details.holdingBalanceTransfer.debit.text" = "You transferred %1$@ to %2$@";
+"activity.details.holdingBalanceTransfer.credit.text" = "You transferred %1$@ from %2$@";
+
+"activity.details.invoice.credit.text" = "You sent an invoice for %1$@ to %2$@";
+"activity.details.invoice.debit.text" = "%2$@ sent an invoice for %1$@";
+"activity.details.payment.debit.text" = "You paid %1$@ to %2$@";
+"activity.details.payment.debit.cashback.text" = "You paid %1$@ to %2$@ and got %3$@ in cash";
+"activity.details.order.debit.text" = "%1$@ sent %2$@";
+"activity.details.order.credit.text" = "%2$@ received order for %1$@";
+"activity.details.payment.withdrawal.text" = "Cash Withdrawal of %1$@ at %2$@";
+// Delayed Payment
+"activity.details.order.payAfterDelivery.text" = "You placed an order with %2$@ for %1$@";
+"activity.details.order.payAfterDelivery.details.text" = "Der Betrag wird am %1$@ von Ihrem Bankkonto abgebucht. Natürlich können Sie auch jetzt schon bezahlen.";
+"activity.details.order.echeck.personal.text" = "Voraussichtliches Verrechnungsdatum der Zahlung: %1$@.";
+"activity.details.order.echeck.goodsAndServices.debit.text" = "Voraussichtliches Verrechnungsdatum der Zahlung: %1$@. Wir empfehlen Händlern, Artikel erst zu versenden, wenn die Zahlung eingegangen ist.";
+"activity.details.order.echeck.goodsAndServices.credit.text" = "Voraussichtliches Verrechnungsdatum der Zahlung: %1$@. Versenden Sie Artikel erst, nachdem Sie das Geld erhalten haben.";
+
+"activity.details.moneyRequestRequestee.requestReceived.text" = "%2$@ is requesting %1$@";
+"activity.details.moneyRequestRequester.requestSent.text" = "You requested %1$@ from %2$@";
+
+"activity.details.moneyRequestRequester.requestCancelled.text" = "You canceled your request for %1$@ from %2$@";
+"activity.details.moneyRequestRequestee.requestDeclined.text" = "You declined %1$@ request for %2$@";
+"activity.details.moneyRequestCancel.text" = "Die Anforderung von %1$@ wird storniert";
+"activity.details.currencyTransfer.text" = "Währungsumrechnung in %1$@";
+
+"activity.details.transactionDateTitle.text" = "Datum";
+"activity.details.transactionStatusTitle.text" = "Transaktionstyp";
+"activity.details.transactionNotesTitle.text" = "Hinweis";
+
+"activity.details.funding.from.text" = "Von";
+"activity.details.funding.to.text" = "Auf";
+"activity.details.shippingAddress.title" = "Versand an";
+"activity.details.purchaseDetails.title" = "Kaufdetails";
+"activity.details.amount.header.text" = "DETAILS";
+
+"activity.details.purchaseItemName.text" = "%1$@ (Qty %2$@)";
+"activity.details.feeAmount.title" = "Gebühr";
+"activity.details.totalAmount.title" = "Summe";
+
+"activity.details.subTotal.title" = "Betrag";
+"activity.details.discount.title" = "Rabatt";
+"activity.details.shipping.title" = "Versand";
+"activity.details.withdrawalSubTotal.title" = "Abbuchungsbetrag";
+"activity.details.tax.title" = "Steuer";
+"activity.details.purchaseTotal.title" = "Kaufsumme";
+"activity.details.counterPartyInfo.text" = "Sie und %1$@";
+"activity.details.counterPartyContact.text" = "%1$@ kontaktieren";
+"activity.details.counterPartySendMoney.text" = "Geld senden";
+"activity.details.counterPartyContact.EmailAddressText" = "E-Mail-Adresse %1$@";
+"activity.details.counterPartyContact.Cancel" = "Abbrechen";
+"activity.details.counterPartyHistory.text" = "Aktivitäten anzeigen";
+"activity.details.funding.source.type.balance" = "PayPal-Guthaben";
+"activity.details.contactSeller.noEmail.errorTitle" = "Sie haben auf Ihrem Handy noch kein E-Mail-Konto eingerichtet.";
+"activity.details.contactSeller.noEmail.errorMessage" = "Richten Sie in den Einstellungen Ihres Geräts ein Konto ein. Sie können sich auch über die PayPal-Website mit dem Verkäufer in Verbindung setzen.";
+"activity.details.contactSeller.noEmail.errorOk" = "OK";
+"activity.details.requestMoney.cancelRequest.alertTitleRequester" = "Diese Anforderung ablehnen?";
+"activity.details.requestMoney.cancelRequest.alertTitleREquestee" = "Anforderung stornieren?";
+"activity.details.requestMoney.cancelRequest.alertMessageRequestee" = "Wir lassen %1$@ per E-Mail wissen, dass die Anforderung storniert wurde.";
+"activity.details.requestMoney.cancelRequest.alertMessageRequester" = "Wir lassen %1$@ per E-Mail wissen, dass Sie die Geldanforderung abgelehnt haben.";
+
+"activity.details.requestMoney.declineRequest.no" = "Nein";
+"activity.details.requestMoney.declineRequest.yes" = "Ja";
+
+"activity.details.invoice.action.visitwebsite" = "Sie können Rechnungen auf unserer <a href='%1$@'>Website verwalten.</a>";
+
+// Shipping Info
+"activity.details.shipping.header.title" = "Lieferung nachverfolgen";
+"activity.details.shipping.status.text" = "Status: %1$@";
+"activity.details.shipping.carrier.text" = "Absender: %1$@";
+
+// OFAC
+"activity.details.ofac.availableDate" = "Verfügbar am: %1$@";
+
+//Say Thanks
+"activity.details.saythanks.saythanks.button.title" = "Bedanken";
+"activity.details.saythanks.saidThanksForYou" = "Wir haben Ihr Dankeschön gesendet.";
+"activity.details.saythanks.firstTimeSayThanks" = "Great! We'll tell them you said thanks.";
+"activity.details.saythanks.youSaidThanks" = "Sie haben sich bedankt.";
+"activity.details.saythanks.receivedThanks" = "%1$@ sagt Danke.";
+
+// Pay After Delivery
+"activity.details.payafterdelivery.alert.title" = "Jetzt zahlen";
+"activity.details.payafterdelivery.alert.text" = "Sie wollen jetzt schon zahlen? Tippen Sie auf \"Zahlen\" und wir ziehen das Geld von Ihrem Bankkonto ein.";
+"activity.details.payafterdelivery.alert.cancel" = "Abbrechen";
+"activity.details.payafterdelivery.alert.pay" = "Bezahlen";
+
+"activity.details.payafterdelivery.success-alert.title" = "Vielen Dank!";
+"activity.details.payafterdelivery.success-alert.text" = "Sie haben den Einkauf bezahlt. It may take your bank %1$@-%2$@ days to complete the payment.";
+"activity.details.payafterdelivery.success-alert.button.ok" = "OK";
+
+"activity.details.payafterdelivery.failure-alert.title" = "Entschuldigung";
+"activity.details.payafterdelivery.failure-alert.text" = "Bei uns ist ein Fehler aufgetreten.Warten Sie einen Augenblick und versuchen Sie es erneut.";
+"activity.details.payafterdelivery.failure-alert.button.cancel" = "Abbrechen";
+"activity.details.payafterdelivery.failure-alert.button.try-again" = "Erneut versuchen";
+
+//Purchase Protection Date
+"activity.details.purchaseProtectionDateBefore.text" = "Wenn es ein Problem mit dieser Transaktion gibt, wenden Sie sich über Ihr PayPal-Konto bis zum %1$@ an den Verkäufer. Möglicherweise gilt der Käuferschutz.";
+
+//Gifting
+"activity.details.gifting.gift.label" = "Geschenk";
+"activity.details.gifting.gifting.description.label" = "%1$@ hat Ihnen ein Geschenk gesendet.";
+
+// Cross Currency
+"activity.details.crosscurrency.declineAlertMessage" = "Wollen Sie diese Zahlung wirklich ablehnen?";
+"activity.details.crosscurrency.paymentDeclinedAlertMessage" = "Zahlung abgelehnt";
+"activity.details.crosscurrency.optionsTitle" = "Diese Zahlung akzeptieren in:";
+"activity.details.crosscurrency.paymentAcceptedAlertTitle" = "Zahlung akzeptiert";
+"activity.details.crosscurrency.paymentAcceptedAlertMessage" = "Sie sehen das Geld in Kürze in Ihrem PayPal-Konto.";
+"activity.details.crosscurrency.optionsCancel" = "Abbrechen";
+
+// Fee descriptor
+"activity.details.feeDescriptor.header"="Gebühr";
+"activity.details.feeDescriptor.domesticATMWithdrawal.title"="Abhebegebühr (Geldautomat)";
+"activity.details.feeDescriptor.internationalATMWithdrawal.title"="Abhebegebühr (ausländischer Geldautomat)";
+"activity.details.feeDescriptor.domesticOverTheCounterWithdrawal.title"="Abhebegebühr (im Laden)";
+"activity.details.feeDescriptor.internationalOverTtheCounterWithdrawal.title"="Abhebegebühr (im Laden)";
+"activity.details.feeDescriptor.internationalPurchase.title"="Transaktionsgebühr (Auslandszahlung)";
+
+// eg: Master Card x-5566
+"activity.details.funding.source.type.card" = "%1$@ (%2$@)";
+"activity.details.tryAgain.button" = "Erneut versuchen";
+"activity.summaryList.titleBar.title" = "Aktivitäten";
+"activity.navigationBar.title.availableBalance" = "PayPal-Guthaben: %1$@";
+"activity.summaryList.didTapFilterButton.title" = "Filter";
+"activity.filters.titleBar.title" = "Nach Datum filtern";
+"activity.filters.presetFilters.name" = "Letzte %1$@ Tage";
+"activity.filters.customFilter.title" = "Datumsbereich auswählen";
+"activity.filters.customFilter.fromDatetitle" = "Von";
+"activity.filters.customFilter.toDatetitle" = "Auf";
+"activity.filters.didTapCancel.cancelButton" = "Abbrechen";
+"activity.filters.didTapDone.doneButton" = "Anzeigen";
+"activity.activityItem.unknownContactContact" = "Unbekannt";
+"activity.filters.customFromDate.futureDateError.Ok" = "OK";
+"activity.filters.customFromDate.futureDateError.text" = "Überprüfen Sie den ausgewählten Zeitraum.";
+
+"activity.filter.segmentedControl.all" = "Alle";
+"activity.filter.segmentedControl.in" = "Geld erhalten";
+"activity.filter.segmentedControl.out" = "Geld gesendet";
+
+"activity.section.group.pending" = "Offen";
+"activity.section.group.complete" = "Abgeschlossen";
+
+"activity.similarTransactions.header.text" = "Sie und %1$@";
+
+"activity.list.noTransactions.title.label.text" = "All your activity, all in one place";
+"activity.list.noTransactions.details.label.text" = "Finden Sie schnell alle wichtigen Zahlungsdaten, antworten Sie auf Geldanforderungen von Freunden, senden Sie Geld und vieles mehr.";
+"activity.list.noTransactionsInDateRange.title.label.text" = "Wir haben keine Transaktionen gefunden";
+"activity.list.noTransactionsInDateRange.detail.label.text" = "Nach Transaktion mit einem anderen Datumsbereich suchen?";
+"activity.list.noTransactions.systemErrorTitle.label.text" = "Erneut versuchen";
+"activity.list.noTransactions.systemErrorDetails.label.text" = "Bei uns ist ein Fehler aufgetreten.Versuchen Sie es in Kürze erneut.";
+
+//Xoom
+"activity.list.xoomTransactions.title.label.text" = "Xoom-Aktivitäten anzeigen";
+"activity.list.xoomPopup.title.label.text" = "Weiter zu Xoom";
+"activity.list.xoomPopup.message.label.text" = "Loggen Sie sich in Ihr Xoom-Konto ein, um alle Transaktionen anzuzeigen.";
+"activity.list.xoomPopup.gotoxoom.title" = "Weiter zu Xoom";
+"activity.list.xoomPopup.cancel.title" = "Abbrechen";
+
+// eBay Grey Markets
+"activity.details.greyMarkets.contactSeller.text" = "Sie wollen den Verkäufer kontaktieren?";
+"activity.details.greyMarkets.contactBuyer.text" = "Sie wollen den Käufer kontaktieren?";
+"activity.details.greyMarkets.sellerContactInformation.text" = "Loggen Sie sich in Ihr eBay-Konto ein und klicken Sie auf die Übersicht Ihrer Verkäufe.";
+"activity.details.greyMarkets.buyerContactInformation.text" = "Loggen Sie sich in Ihr eBay-Konto ein und klicken Sie auf die Übersicht Ihrer Käufe.";
+
+// Money Pools
+"activity.details.moneyPools.moneySent.text" = "You sent %1$@ to %2$@ for %3$@";
+"activity.details.moneyPools.moneyReceived.text" = "You received %1$@ from %2$@ for %3$@";
+
+//Check Capture
+"activity.details.checkCapture.completed.text" = "Sie haben einen Scheck über %1$@ eingelöst.";
+"activity.details.checkCapture.denied.text" = "Der Scheck über %1$@ wurde abgelehnt.";
+"activity.details.checkCapture.failed.text" = "Der Scheck über %1$@ konnte nicht eingelöst werden.";
+"activity.details.ingoID.text" = "Ingo-Transaktionsnummer: %1$@";
+"activity.details.counterPartyCall.text" = "%1$@ anrufen";
+
+//Early Refund
+"activity.details.earlyRefund.bank" = "Sie haben eine Rückzahlung angefordert, bevor die %1$@ von Ihrem Konto abgebucht wurden.";
+"activity.details.earlyRefund.full" = "Die Zahlung wurde zurückgezahlt, bevor das Geld von Ihrem Konto abgebucht wurde.";
