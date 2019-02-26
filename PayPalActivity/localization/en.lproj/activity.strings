@@ -246,3 +246,5 @@
 //Early Refund
 "activity.details.earlyRefund.bank" = "You requested the refund before the %@ was debited from your bank account.";
 "activity.details.earlyRefund.full" = "The payment was refunded before it was debited from your account.";
+
+"pambushtest.string" = "You were charged %1$@ from %2$@";
