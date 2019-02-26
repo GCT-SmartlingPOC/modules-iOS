@@ -36,3 +36,5 @@
 "activity.navigationBar.title.availableBalance" = "PayPal balance: %1$@";
 "activity.section.group.complete" = "Completed";
 "activity.section.group.pending" = "Pending";
+
+"pambushtest.dk" = "PayPal account balance: %1$@";
