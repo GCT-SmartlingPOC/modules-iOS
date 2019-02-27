@@ -30,3 +30,4 @@
 "activity.list.noTransactions.systemErrorTitle.label.text" = "Please try again";
 "activity.list.noTransactionsInDateRange.detail.label.text" = "Would you like to search for transactions with a different date range?";
 "activity.navigationBar.title.availableBalance" = "PayPal balance: %1$@";
+"activity.navigationBar.title.testdp" = "PayPal balance: %1$@ xxx200";
