@@ -248,4 +248,4 @@
 "activity.details.earlyRefund.full" = "The payment was refunded before it was debited from your account.";
 
 "pambushtest.string" = "You were charged %1$@ from %2$@";
-"dptest.string" = "You were charged %1$@ from %2$@ xx100";
+"dptest.string" = "You were charged %1$@ from %2$@ xx200";
